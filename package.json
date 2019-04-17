@@ -122,6 +122,7 @@
       "production": {
         "presets": [
           "es2015",
+          "es2015-ie",
           "stage-0",
           "react"
         ]
@@ -129,6 +130,7 @@
       "development": {
         "presets": [
           "es2015",
+          "es2015-ie",
           "stage-0",
           "react"
         ]
@@ -141,6 +143,7 @@
               "modules": false
             }
           ],
+          "es2015-ie",
           "stage-0",
           "react"
         ]
