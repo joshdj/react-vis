@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/uber-common/react-vis.git"
+    "url": "https://github.com/joshdj/react-vis.git"
   },
   "bugs": {
-    "url": "https://github.com/uber-common/react-vis/issues/new",
+    "url": "https://github.com/joshdj/react-vis/issues/new",
     "email": "visualization@uber.com"
   },
   "scripts": {
@@ -40,6 +40,8 @@
     }
   },
   "dependencies": {
+    "babel-preset-es2015-ie": "^6.7.0",
+    "core-js": "^3.0.1",
     "d3-array": "^1.2.0",
     "d3-collection": "^1.0.3",
     "d3-color": "^1.0.3",
