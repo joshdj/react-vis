@@ -1,0 +1,15 @@
+node_modules/
+.sass-cache/
+.nyc_output/
+coverage/
+
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+.idea/
+public/
+
+showcase/bundle.js
+showcase/bundle.css
+
+/index.html
